@@ -1,4 +1,5 @@
-### Hi there 👋
+### <img src="https://i.ibb.co/dWFSW1f/Ads-z-tasar-m-12.png" alt="TCCB"> Merhaba!
+
 
 <!--
 **mercy2m/mercy2m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
